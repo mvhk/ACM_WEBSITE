@@ -1,0 +1,2 @@
+# ACM_WEBSITE
+This is a website for the SCSVMV University ACM Chapter, where people gather to do various activities:ghost: like Coding for various problems:computer: , and Learning:books: new Programming Languages
